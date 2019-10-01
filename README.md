@@ -1,2 +1,2 @@
 # JavaPractice
-Doing exercises from the Java book (Liang)
+Doing exercises from a Java book (Liang)
